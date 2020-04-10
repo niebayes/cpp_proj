@@ -1,0 +1,16 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "todo-tree.tree.showScanModeButton": false,
+    "editor.fontFamily": "Monaco",
+    "workbench.colorTheme": "Eva Dark",
+    "editor.fontSize": 19,
+    "editor.formatOnSave": true,
+    "debug.console.fontSize": 16,
+    "terminal.integrated.fontSize": 16,
+    "editor.cursorStyle": "block",
+    "latex-workshop.message.update.show": false,
+    "remote.extensionKind": {
+        "ms-azuretools.vscode-docker": "workspace"
+    },
+    "explorer.confirmDragAndDrop": false,
+}
