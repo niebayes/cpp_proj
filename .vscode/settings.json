@@ -13,4 +13,11 @@
         "ms-azuretools.vscode-docker": "workspace"
     },
     "explorer.confirmDragAndDrop": false,
+    "files.associations": {
+        "string": "cpp",
+        "vector": "cpp",
+        "iosfwd": "cpp"
+    },
+    // Below is extension vscode-fileheader's settings for python.
+    // "fileheader.tpl": "# @Author            : {author} \r# @Date              : {createTime} \r# @Last Modified by  : {lastModifiedBy} \r# @Last Modified time: {updateTime}",
 }
