@@ -16,8 +16,9 @@
     "files.associations": {
         "string": "cpp",
         "vector": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "dense": "cpp",
+        "iostream": "cpp",
+        "geometry": "cpp"
     },
-    // Below is extension vscode-fileheader's settings for python.
-    // "fileheader.tpl": "# @Author            : {author} \r# @Date              : {createTime} \r# @Last Modified by  : {lastModifiedBy} \r# @Last Modified time: {updateTime}",
 }
